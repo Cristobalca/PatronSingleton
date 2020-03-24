@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user name\\source\\repos\\PatronSingleton\\patron de diseno\\patron de diseno.csproj",
-      "projectName": "patron de diseno",
-      "projectPath": "C:\\Users\\user name\\source\\repos\\PatronSingleton\\patron de diseno\\patron de diseno.csproj",
+      "projectUniqueName": "C:\\Users\\user name\\source\\repos\\PatronSingleton\\FactoryMethod1\\FactoryMethod1.csproj",
+      "projectName": "FactoryMethod1",
+      "projectPath": "C:\\Users\\user name\\source\\repos\\PatronSingleton\\FactoryMethod1\\FactoryMethod1.csproj",
       "packagesPath": "C:\\Users\\user name\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user name\\source\\repos\\PatronSingleton\\patron de diseno\\obj\\",
+      "outputPath": "C:\\Users\\user name\\source\\repos\\PatronSingleton\\FactoryMethod1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user name\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,9 +54,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

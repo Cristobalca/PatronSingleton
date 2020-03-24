@@ -1,0 +1,13 @@
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.exe
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.deps.json
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.runtimeconfig.json
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.runtimeconfig.dev.json
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.dll
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\bin\Debug\netcoreapp3.1\FactoryMethod1.pdb
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.csprojAssemblyReference.cache
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.csproj.CoreCompileInputs.cache
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.AssemblyInfoInputs.cache
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.AssemblyInfo.cs
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.dll
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.pdb
+C:\Users\user name\Source\Repos\PatronSingleton\FactoryMethod1\obj\Debug\netcoreapp3.1\FactoryMethod1.genruntimeconfig.cache
